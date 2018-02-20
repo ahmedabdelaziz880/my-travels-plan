@@ -1,6 +1,6 @@
 
 /* test dependencies */
-
+ggggggggggggggg
 var clone = require('..');
 var expect = require('expect.js');
 
